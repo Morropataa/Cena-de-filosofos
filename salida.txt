@@ -1,0 +1,46 @@
+Filosofo 1 | ronda 1 | pensando
+Filosofo 2 | ronda 1 | pensando
+Filosofo 3 | ronda 1 | pensando
+Filosofo 4 | ronda 1 | pensando
+Filosofo 5 | ronda 1 | pensando
+Filosofo 1 | ronda 1 | comiendo
+Filosofo 3 | ronda 1 | comiendo
+Filosofo 1 | ronda 1 | termino de comer y libero los tenedores
+Filosofo 1 | ronda 2 | pensando
+Filosofo 5 | ronda 1 | comiendo
+Filosofo 3 | ronda 1 | termino de comer y libero los tenedores
+Filosofo 3 | ronda 2 | pensando
+Filosofo 2 | ronda 1 | comiendo
+Filosofo 5 | ronda 1 | termino de comer y libero los tenedores
+Filosofo 5 | ronda 2 | pensando
+Filosofo 4 | ronda 1 | comiendo
+Filosofo 2 | ronda 1 | termino de comer y libero los tenedores
+Filosofo 2 | ronda 2 | pensando
+Filosofo 1 | ronda 2 | comiendo
+Filosofo 4 | ronda 1 | termino de comer y libero los tenedores
+Filosofo 4 | ronda 2 | pensando
+Filosofo 3 | ronda 2 | comiendo
+Filosofo 1 | ronda 2 | termino de comer y libero los tenedores
+Filosofo 1 | ronda 3 | pensando
+Filosofo 5 | ronda 2 | comiendo
+Filosofo 3 | ronda 2 | termino de comer y libero los tenedores
+Filosofo 3 | ronda 3 | pensando
+Filosofo 2 | ronda 2 | comiendo
+Filosofo 5 | ronda 2 | termino de comer y libero los tenedores
+Filosofo 4 | ronda 2 | comiendo
+Filosofo 5 | ronda 3 | pensando
+Filosofo 2 | ronda 2 | termino de comer y libero los tenedores
+Filosofo 2 | ronda 3 | pensando
+Filosofo 1 | ronda 3 | comiendo
+Filosofo 4 | ronda 2 | termino de comer y libero los tenedores
+Filosofo 4 | ronda 3 | pensando
+Filosofo 3 | ronda 3 | comiendo
+Filosofo 1 | ronda 3 | termino de comer y libero los tenedores
+Filosofo 5 | ronda 3 | comiendo
+Filosofo 3 | ronda 3 | termino de comer y libero los tenedores
+Filosofo 2 | ronda 3 | comiendo
+Filosofo 5 | ronda 3 | termino de comer y libero los tenedores
+Filosofo 4 | ronda 3 | comiendo
+Filosofo 2 | ronda 3 | termino de comer y libero los tenedores
+Filosofo 4 | ronda 3 | termino de comer y libero los tenedores
+Todos los filosofos terminaron sus 3 rondas.
